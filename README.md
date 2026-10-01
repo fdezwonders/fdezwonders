@@ -1,4 +1,7 @@
-## Hi there 👋
+# cris
+hello! im a beginner at coding
+i have a few private personal projects and sometimes might make changes to a project if i want to
+i mostly use things like codex and cursor (since i have enough coding knowledge to know how to use them and what terminology means but not enough to actually type code - im working on the second part!)
 
 <!--
 **fdezwonders/fdezwonders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
